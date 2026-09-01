@@ -63,7 +63,7 @@ This project is a **comprehensive end-to-end sales analytics case study** for a 
 
 ## 📂 Repository Structure
 
-```
+
 
 Sales_Dashboard_Project/
 │
@@ -76,7 +76,7 @@ Sales_Dashboard_Project/
 ├── dashboard/ # Power BI files
 └── README.md # This file
 
-```
+
 
 ---
 
@@ -86,16 +86,16 @@ Sales_Dashboard_Project/
    ```bash
    git clone https://github.com/Data-Analyst-Journey/Sales_Dashboard_Project.git
    cd Sales_Dashboard_Project
-```
+
 
 1. Install Dependencies:
    ```bash
    pip install -r python_analysis/requirements.txt
-   ```
+   
 2. Run the Script:
-   ```bash
+   
    python python_analysis/sales_analytics_deep_dive.py
-   ```
+   
 3. Check Outputs:
    · Model evaluation metrics appear in the terminal.
    · Sales trends plot is saved as output/sales_trends.png.
@@ -131,4 +131,4 @@ Churn prediction model identifies at-risk customers. Implement a loyalty program
 
 This project is for portfolio purposes and is not licensed for commercial use.
 
-```
+
